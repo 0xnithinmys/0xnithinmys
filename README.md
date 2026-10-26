@@ -14,7 +14,7 @@ I contribute to open source projects in the agent-based modeling and LLM tooling
 
 ## Open Source
 
-- Contributing bug fixes and improvements to [Mesa](https://github.com/projectmesa/mesa) , [mesa-llm](https://github.com/mesa/mesa-llm/commits/main/?author=0xnithinmys) and  google(tunix) an agent-based modeling framework in Python
+- Contributing bug fixes and improvements to [Mesa](https://github.com/mesa/mesa/commits/main/?author=0xnithinmys) , [mesa-llm](https://github.com/mesa/mesa-llm/commits/main/?author=0xnithinmys) and  google(tunix) an agent-based modeling framework in Python
 - Interested in LLM-focused extensions of agent-based modeling, such as mesa-llm
 
 ## Contact
